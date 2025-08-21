@@ -1,0 +1,17 @@
+{
+    "name": "sandhyodip/my-package",
+    "description": "This is a custom PHP package created by Sandhyodip Das",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Sandhyodip\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sandhyodip Das",
+            "email": "sandhyodip17@gmail.com"
+        }
+    ],
+    "require": {}
+}
